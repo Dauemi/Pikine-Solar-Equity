@@ -1,0 +1,1 @@
+Place Pikine_Buildings_Solar_32628.gpkg (and the WorldPop .tif, not uploaded) here.

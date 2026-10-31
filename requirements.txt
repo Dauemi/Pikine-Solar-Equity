@@ -1,0 +1,6 @@
+geopandas
+rasterio
+rasterstats
+numpy
+pandas
+matplotlib
